@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258226904557",
+    "firebase_url": "https://myadddelfetchapp.firebaseio.com",
+    "project_id": "myadddelfetchapp",
+    "storage_bucket": "myadddelfetchapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258226904557:android:3c17ca0bb1f4aeb7335be4",
+        "android_client_info": {
+          "package_name": "com.example.myadddelfetchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258226904557-hvihih0c2tvfbnvm5ckla0aeiuorep8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myadddelfetchapp",
+            "certificate_hash": "acb8837acd449c5ba9ae255f9f9f16182169bf8d"
+          }
+        },
+        {
+          "client_id": "258226904557-7onfkni0vt4i8hqgm9rmneftd8hv0250.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmELyYouwBdhgbgv8CaPR70dmU-djVy80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258226904557-7onfkni0vt4i8hqgm9rmneftd8hv0250.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
